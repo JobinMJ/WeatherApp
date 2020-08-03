@@ -32,6 +32,10 @@ How to Run the Source code
 
 Download the source code and open in to android studio and run
 
+APK Location
+
+https://github.com/JobinMJ/WeatherApp/blob/master/app/release/app-release.apk
+
 Screen Shots
 ------------
 
