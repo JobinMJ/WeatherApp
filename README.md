@@ -1,33 +1,36 @@
-#WheatherApp -  An simple android application with android architecture component for show singapore weather for cast
+WeatherApp - An simple android application with android architecture component for show Singapore weather forcast
 
-Used library's and tools
-------------------------
-MVVM with clean architecture
-Dagger 2
-Retrofit 2
-Room
-Live Data
-Cache
-Coroutine
+Used Components
+
+MVVM with clean architecture 
+
+Dagger 2 
+
+Retrofit 2 
+
+Room 
+
+Live Data 
+
+Cache 
+
+Coroutine 
+
 OkHttp
 
-Highlights
--------------
-1. Getting 5 days singapore weather forcast data from open weather map server and showing in ui
-2. Application getting data from either remote server or local data base or system cache
+Features
 
+Getting 5 days of Singapore weather forecast data from open weather map server and showing in ui
+Application getting data from either remote server or local data base or system cache
+Followed clean architecture
 Future Enhancement
-1. User can select current location or any location from google map and find live forcast
-2. Auto updation forcast data
-3. Enable more security patches
 
-How to run the source code
--------------------------
+User can select current location or any location from google map and find live forecast
+Auto updating of  forecast data
+Enable more security patches
+How to Run the Source code
+
 Download the source code and open in to android studio and run
-
-Where to find APK
-----------------
-https://github.com/JobinMJ/WeatherApp/blob/master/app/release/app-release.apk
 
 Screen Shots
 ------------
