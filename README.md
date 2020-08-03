@@ -38,4 +38,4 @@ https://github.com/JobinMJ/WeatherApp/blob/master/app/release/app-release.apk
 
 Screen Shots
 ------------
-Screenshot_1596441343.png
+app/src/main/res/drawable/Screenshot_1596441343.png
